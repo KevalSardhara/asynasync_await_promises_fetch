@@ -25,3 +25,5 @@ while (i <= 5) {
 }
 
 // git commit file
+// install the node_modules package after the git clone
+
