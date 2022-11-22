@@ -1,0 +1,21 @@
+{
+  "name": "async_await_promises_fetch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "async_await1.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fetch",
+    "api",
+    "informathion",
+    "data"
+  ],
+  "author": "Keval Sardhara",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
